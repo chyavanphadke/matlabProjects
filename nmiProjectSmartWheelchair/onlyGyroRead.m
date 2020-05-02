@@ -1,4 +1,7 @@
 clc
+close all
+clear all
+
 
 startProgram = 'True';
 
